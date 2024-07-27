@@ -3,5 +3,5 @@ MajorMentor: Career Guidance ML Tool Welcome to MajorMentor, the machine learnin
 
 Installation To get started, make sure you have the required dependency installed:
 
-pip install plywrite
+pip install playwrite
 Contributors MajorMentor was created by the following individuals: Dhruv B. Yousef M. Tabish K. Labeeba S. Salman Z.
